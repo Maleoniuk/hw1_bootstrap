@@ -1,0 +1,19 @@
+img{
+    width:100%;
+    background-color: #cccccc;
+    border: 1px solid #ddd;}
+ img:hover {
+    background-color: red;
+    opacity: 0.5;
+    }
+
+header {
+    background-color:#eeeeee;
+    height: 150px;
+}
+h1,p{text-align: center;}
+footer{
+    background-color:#eeeeee;
+    height: 100px;
+  
+}
